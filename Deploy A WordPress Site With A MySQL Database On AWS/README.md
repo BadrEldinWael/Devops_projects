@@ -27,7 +27,7 @@ It integrates persistent storage using both:
 
 ![Kubernetes Flow](https://github.com/BadrEldinWael/Devops_projects/blob/0e96222b2ff77853f8175ff6764923f1a8ccd69a/Deploy%20A%20WordPress%20Site%20With%20A%20MySQL%20Database%20On%20AWS/Images/Projectk8s.png)
 
-![Architecture Diagram](images/awscluster.png)
+![Architecture Diagram](https://github.com/BadrEldinWael/Devops_projects/blob/c95c28546eb4c8200e720ce655f801142efb34d0/Deploy%20A%20WordPress%20Site%20With%20A%20MySQL%20Database%20On%20AWS/Images/awscluster.png)
 
 ---
 
