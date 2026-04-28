@@ -26,6 +26,7 @@ It integrates persistent storage using both:
 ## 📊 Architecture Diagram
 
 ![Architecture Diagram](images/Projectk8s.png)
+
 ![Architecture Diagram](images/awscluster.png)
 
 ---
