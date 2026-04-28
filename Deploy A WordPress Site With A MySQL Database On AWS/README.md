@@ -26,6 +26,7 @@ It integrates persistent storage using both:
 ## 📊 Architecture Diagram
 
 ![Kubernetes Flow](images/Projectk8s.png)
+
 ![Architecture Diagram](images/awscluster.png)
 
 ---
